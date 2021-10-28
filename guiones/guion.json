@@ -43,7 +43,7 @@
                "duracion":3000,
                "camara":"camara1",
                "target":"target1",
-               "nombre":"punto inicial"
+               "nombre":"punto inicial / final"
           }
       ]
 }
